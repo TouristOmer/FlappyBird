@@ -11,7 +11,7 @@ This project is a simple and fun clone of the classic Flappy Bird game, develope
 ## 🚀 How to Run
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/FlappyBird.git](https://github.com/YOUR_USERNAME/FlappyBird.git)
+   git clone [https://github.com/TouristOmer/FlappyBird.git](https://github.com/TouristOmer/FlappyBird.git)
 
    # 🐦 Flappy Bird - C# Windows Forms
 
@@ -26,4 +26,4 @@ Bu proje, klasik Flappy Bird oyununun C# ve Windows Forms kullanılarak gelişti
 ## 🚀 Nasıl Çalıştırılır?
 1. Bu repoyu bilgisayarınıza indirin veya klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/FlappyBird.git](https://github.com/KULLANICI_ADIN/FlappyBird.git)
+   git clone [https://github.com/TouristOmer/FlappyBird.git](https://github.com/TouristOmer/FlappyBird.git)
